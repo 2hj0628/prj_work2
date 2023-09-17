@@ -1,0 +1,30 @@
+프로젝트 2  - Git-hub 
+
+#git hub 주소: https://github.com/NaeriGo/prj_work2.git
+
+1. 폴더창에서 진행할 프로젝트를 저장할 폴더를 Shift+오른쪽마우스 클릭
+2. 메뉴에서 여기에서 PowerShell 창 열기
+3. PowerShell 창에서 아래 내용 붙여놓고 Enter
+git clone https://github.com/NaeriGo/prj_work2.git
+4. VisualStudio 에서 prj_work2 폴더 열기
+5. 확장탭에서 Git Graph 설치
+6. 터미널 창에서 아래 내용 붙여넣고 Enter
+git config --global user.name '이름'
+7. 터미널 창에서 아래 내용 붙여넣고 Enter
+git config --global user.email '이메일'
+
+
+** 사용방법
+1. VisualStudio의 제어탭에서 소스제어 오른쪽 … 메뉴 클릭
+2. 메뉴에서 변경사항 -> 모든 변경 내용 스테이징
+3. VisualStudio의 제어탭에서 소스제어의 메시지 창에 내용 작성하고, 커밋
+4. 방법 1을 하는 것을 권장
+   방법 1) 
+    a. VisualStudio의 제어탭에서 소스제어에서~
+    b. 변경내용 동기화 버튼 클릭
+   방법 2)
+    a. VisualStudio의 제어탭에서 소스제어 오른쪽 … 메뉴 클릭
+    b. 자료를 받아올때 메뉴에서 풀 , 자료를 올릴때 메뉴에서 푸시
+
+
+

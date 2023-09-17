@@ -1,0 +1,11 @@
+venv/
+Instruction/
+data_collect/
+doc_zip/
+code_practice/
+code/
+code_old/
+__pycache__/
+chrometemp/
+106/
+107/
